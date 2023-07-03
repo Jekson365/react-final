@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@100&family=Inconsolata:wght@200&family=League+Spartan:wght@200;400&family=Montserrat:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@100&family=Inconsolata:wght@200&family=League+Spartan:wght@200;400&family=Montserrat:wght@700&family=Oswald:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.font-light {
+    font-family: 'Inconsolata', monospace;
+}
+a {
+    text-decoration: none !important;
+}
+.font-bold {
+    font-family: 'Oswald', sans-serif;
+}
+.active {
+    text-decoration: underline !important;
+}
