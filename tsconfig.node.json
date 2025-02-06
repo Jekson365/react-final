@@ -1,8 +1,9 @@
+// tsconfig
 {
   "compilerOptions": {
     "composite": true,
     "skipLibCheck": true,
-    "module": "ESNext ",
+    "module": "ESNext",
     "moduleResolution": "bundler",
     "allowSyntheticDefaultImports": true
   },
